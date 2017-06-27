@@ -1,5 +1,5 @@
-#  Machine Learning Implementations
-### ML-Knn-housing-predictor
+#  Machine Learning
+### ML-Knn-housing-predictor Implementations
 
 #### Predicting housing prices using K-nn algorithm
 This is a Simple Implementations in MATLAB - implements CBR system (Case-Based Reasoning) 
